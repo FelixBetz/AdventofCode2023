@@ -4,9 +4,9 @@ This repository contains my solutions for [adventofcode.com/2023](https://advent
 
 ## My Progress
 
-I sloved `14` out of `50` ⭐!
+I sloved `16` out of `50` ⭐!
 
-![28](https://progress-bar.dev/28?width=500)
+![32](https://progress-bar.dev/32?width=500)
 
 ## About the project
 Hi! I'm Eric Wastl. I make Advent of Code. I hope you like it! I also made Vanilla JS, PHP Sadness, and lots of other things. You can find me on Twitter, Mastodon, and GitHub.
